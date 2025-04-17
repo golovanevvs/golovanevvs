@@ -9,7 +9,7 @@
 
 ---
 
-### Мой стек:
+### Мой стек
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="60" height="60"/>&nbsp;
@@ -24,7 +24,7 @@
 
 ---
 
-### Моя статистика:
+### Моя статистика
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=golovanevvs&theme=dark&background=000000)](https://git.io/streak-stats)
 
