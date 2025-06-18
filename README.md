@@ -5,7 +5,7 @@ Backend-разработчик на Go.
 ---
 
 ### Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/golovanevvs) [![Mail](https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white)](mailto:lony@inbox.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/golovanevvs) [![Mail](https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white)](mailto:golovanev.vs@gmail.com)
 
 ---
 
